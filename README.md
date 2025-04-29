@@ -1,34 +1,59 @@
-<a>![alt README header](https://github.com/Enocuel/enocuel/blob/main/Banner.png)</a>
-<h1 align="center">ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ <a href="https://github.com/Enocuel/" target="blank">
-ᴇɴᴏᴄᴜᴇʟ.ᴇxᴇ</a></h1>
+<h1 align="center">
+  ✨ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ <a href="https://github.com/Enocuel" target="_blank">ᴇɴᴏᴄᴜᴇʟ.ᴇxᴇ</a> ✨
+</h1>
 
 <div align="center">
+  <img src="https://github.com/Enocuel/enocuel/blob/main/Banner.png" alt="Banner" style="max-width: 100%; height: auto; border-radius: 8px;"/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
   
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/enocuel)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/267970831240527873)
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/enocuel666/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/enocuel)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/enocuel666/)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/267970831240527873)
+  
+</div>
+
+---
+
+## 🌍 Aʙᴏᴜᴛ ᴍᴇ
+
+<div>
+  <img align="right" width="350" src="https://github.com/Enocuel/enocuel/blob/main/Jinx.png" alt="Shimarin" style="border-radius: 8px; margin-left: 20px;"/>
+  
+  🔥 **QA Eɴɢɪɴᴇᴇʀ ɪɴ ᴛʜᴇ Mᴀᴋɪɴɢ**  
+  Pᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴇɴsᴜʀɪɴɢ sᴏғᴛᴡᴀʀᴇ ᴏ̨ᴜᴀʟɪᴛʏ ᴛʜʀᴏᴜɢʜ ᴍᴇᴛɪᴄᴜʟᴏᴜs ᴛᴇsᴛɪɴɢ ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ.
+
+  ### 🛠️ Sᴋɪʟʟs & Exᴘᴇʀɪᴇɴᴄᴇ:
+  - **Mᴀɴᴜᴀʟ Tᴇsᴛɪɴɢ** ᴏғ ᴡᴇʙ ᴀɴᴅ ᴍᴏʙɪʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs
+  - Cʀᴇᴀᴛɪɴɢ ᴛᴇsᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ (ᴄʜᴇᴄᴋʟɪsᴛs, ᴛᴇsᴛ ᴄᴀsᴇs, ʙᴜɢ ʀᴇᴘᴏʀᴛs) 📝
+  - Wᴏʀᴋɪɴɢ ᴡɪᴛʜ **Jɪʀᴀ/Tʀᴇʟʟᴏ** ᴀɴᴅ **Pᴏsᴛᴍᴀɴ** ғᴏʀ API ᴛᴇsᴛɪɴɢ 🌐
+  - Lᴇᴀʀɴɪɴɢ **JᴀᴠᴀSᴄʀɪᴘᴛ** ғᴏʀ ᴛᴇsᴛ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ 🤖
+  - Wʀɪᴛɪɴɢ sɪᴍᴘʟᴇ **SQL** ᴏ̨ᴜᴇʀɪᴇs ғᴏʀ ᴅᴀᴛᴀ ᴠᴀʟɪᴅᴀᴛɪᴏɴ 🗃️
+
+  ### 🚀 Nᴇxᴛ Sᴛᴇᴘs:
+  - Mᴀsᴛᴇʀɪɴɢ **Sᴇʟᴇɴɪᴜᴍ/Pʟᴀʏᴡʀɪɢʜᴛ**
+  - Exᴘᴀɴᴅɪɴɢ **API ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ** sᴋɪʟʟs
+  - Cᴏɴᴛʀɪʙᴜᴛɪɴɢ ᴛᴏ ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ QA ᴘʀᴏᴊᴇᴄᴛs
 
 </div>
 
-🔥 I ᴀᴍ ᴀᴄᴛɪᴠᴇʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ɪɴ ᴛʜᴇ ᴅɪʀᴇᴄᴛɪᴏɴ ᴏғ QA ᴡɪᴛʜ ᴀ ғᴏᴄᴜs ᴏɴ ᴍᴀɴᴜᴀʟ ᴛᴇsᴛɪɴɢ ᴏғ ᴡᴇʙ ᴀɴᴅ ᴍᴏʙɪʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs. I ᴀʟʀᴇᴀᴅʏ ʜᴀᴠᴇ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ:
+---
 
-- Pʀᴇᴘᴀʀᴀᴛɪᴏɴ ᴏғ ᴛᴇsᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ (ᴄʜᴇᴄᴋʟɪsᴛs, ᴛᴇsᴛ ᴄᴀsᴇs, ʙᴜɢ ʀᴇᴘᴏʀᴛs) 📝
-- Wᴏʀᴋɪɴɢ ᴡɪᴛʜ Jɪʀᴀ/Tʀᴇʟʟᴏ ᴀɴᴅ API ᴛᴇsᴛɪɴɢ ᴠɪᴀ Pᴏsᴛᴍᴀɴ 🌐
-- Lᴇᴀʀɴɪɴɢ ᴛʜᴇ ʙᴀsɪᴄs ᴏғ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ (JᴀᴠᴀSᴄʀɪᴘᴛ) 🤖
-- Wʀɪᴛɪɴɢ SQL ᴏ̨ᴜᴇʀɪᴇs ғᴏʀ ᴅᴀᴛᴀ ᴠᴀʟɪᴅᴀᴛɪᴏɴ 🗃️
+## 🖤 Pʜɪʟᴏsᴏᴘʜʏ
 
-I ᴀᴍ ʀᴇᴀᴅʏ ᴛᴏ ɪᴍᴍᴇʀsᴇ ᴍʏsᴇʟғ ɪɴ ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴀɴᴅ ᴘᴜᴛ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴᴛᴏ ᴘʀᴀᴄᴛɪᴄᴇ! 🚀
+> Yᴏᴜ ᴋɴᴏᴡ, ᴛʜᴇʀᴇ ᴀʀᴇ ᴛᴡᴏ ᴛᴡɪɴs: Mᴀᴅɴᴇss ᴀɴᴅ Gᴇɴɪᴜs
+
+> Sᴏᴍᴇᴛɪᴍᴇs ᴍᴀᴋɪɴɢ ᴀ ʟᴇᴀᴘ ғᴏʀᴡᴀʀᴅ ᴍᴇᴀɴs ʟᴇᴀᴠɪɴɢ sᴏᴍᴇᴛʜɪɴɢ ʙᴇʜɪɴᴅ
+
+> Iғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ ᴡᴏʀʟᴅ, ᴅᴏɴ'ᴛ ᴀsᴋ ғᴏʀ ᴘᴇʀᴍɪssɪᴏɴ
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Enocuel&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
 <!--
-**Enocuel/enocuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="220" src="https://github.com/Enocuel/enocuel/blob/main/AboutMe.png" alt="Shimarin" style="border-radius: 8px; margin-left: 20px;"/>
+--!>

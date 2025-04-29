@@ -19,7 +19,7 @@
 ## 🌍 Aʙᴏᴜᴛ ᴍᴇ
 
 <div>
-  <img align="right" width="320" src="https://github.com/Enocuel/enocuel/blob/main/Jinx.png" alt="Shimarin" style="border-radius: 8px; margin-left: 20px;"/>
+  <img align="right" width="333" src="https://github.com/Enocuel/enocuel/blob/main/Jinx.png" alt="Shimarin" style="border-radius: 8px; margin-left: 20px;"/>
   
   🔥 **QA Eɴɢɪɴᴇᴇʀ ɪɴ ᴛʜᴇ Mᴀᴋɪɴɢ**  
   Pᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴇɴsᴜʀɪɴɢ sᴏғᴛᴡᴀʀᴇ ᴏ̨ᴜᴀʟɪᴛʏ ᴛʜʀᴏᴜɢʜ ᴍᴇᴛɪᴄᴜʟᴏᴜs ᴛᴇsᴛɪɴɢ ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ.
